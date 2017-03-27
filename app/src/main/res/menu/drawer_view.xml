@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/recent_fragment"
+            android:icon="@drawable/image4"
+            android:title="Recent Stories" />
+        <item
+            android:id="@+id/top_fragment"
+            android:icon="@drawable/image4"
+            android:title="Top Stories" />
+        <item
+            android:id="@+id/log_fragment"
+            android:icon="@drawable/image4"
+            android:title="LogIn/SignUp" />
+        <item
+            android:id="@+id/setting_fragment"
+            android:icon="@drawable/image4"
+            android:title="Settings" />
+        <item
+            android:id="@+id/share_fragment"
+            android:icon="@drawable/image4"
+            android:title="Share" />
+        <item
+            android:id="@+id/rate_fragment"
+            android:icon="@drawable/image4"
+            android:title="Rate" />
+        <item
+            android:id="@+id/feedback_fragment"
+            android:icon="@drawable/image4"
+            android:title="Feedbackw" />
+    </group>
+</menu>

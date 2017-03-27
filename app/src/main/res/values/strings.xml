@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TellIt</string>
+    <string name="sign_in_message">Fine message</string>
+    <string name="invalid_password">invalidiate</string>
+    <string name="invalid_email">invalid email tru</string>
+    <string name="sign_in">sign in</string>
+</resources>
